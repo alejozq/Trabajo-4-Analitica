@@ -1,11 +1,18 @@
 #Trabajo 04: Predicción del número de vehículos registrados en el sistema de tránsito nacional
 
-Integrantes
+*Integrantes*
+
 Isabella Saez Calderón
+
 Camilo Andres Granada Mejia
+
 Alejandro Zapata Quintero
+
 Andres Felipe Torres Chaverra
+
 Juan José Florez Ospina
+
+------------------------------------------
 
 Repositorio:
 https://github.com/alejozq/Trabajo-4-Analitica
